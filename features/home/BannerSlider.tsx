@@ -54,11 +54,12 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/hqc247-banner.jpg'}
+                            src={'/images/banners/banner-001.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
                     <Box
+                        display={'none'}
                         justifyContent={'center'}
                         alignItems={'center'}
                         position={'absolute'}
@@ -67,7 +68,7 @@ export default function BannerSlider(): JSX.Element {
                         transform={"translate(-50%, -50%)"}
                     >
                         <Flex alignItems={'center'} flexDirection={'column'}>
-                            <Heading size={{base: 'md', md: '2xl'}} mt={2} color={'white'}>Hqc247 Logistics</Heading>
+                            <Heading size={{base: 'md', md: '2xl'}} mt={2} color={'white'}>YenChina Logistics</Heading>
                         </Flex>
                     </Box>
                 </Box>
@@ -78,7 +79,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/van-tai-banner1.png'}
+                            src={'/images/banners/banner-002.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
@@ -90,7 +91,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/van-tai-hang-hoa-logistics.png'}
+                            src={'/images/banners/banner-003.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
@@ -102,7 +103,19 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/van-tai-logistics.png'}
+                            src={'/images/banners/banner-004.jpg'}
+                            alt={'Banner'}
+                        />
+                    </Box>
+                </Box>
+            </swiper-slide>
+            <swiper-slide>
+                <Box position={'relative'}>
+                    <Box>
+                        <Image
+                            width={'100%'}
+                            height={712}
+                            src={'/images/banners/banner-005.jpg'}
                             alt={'Banner'}
                         />
                     </Box>

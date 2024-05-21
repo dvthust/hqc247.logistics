@@ -31,11 +31,11 @@ export default function SupportInfo() {
             isExternal
             alignItems={'center'}
             justifyContent={'center'}
-            href={'tel:0357471688'}
-            title={'035.747.1688'}
+            href={'tel:0395488506'}
+            title={'0395.488.506'}
         >
           <span className={'icon sprite call-icon'} />
-          <Text ml={1}>035.747.1688</Text>
+          <Text ml={1}>0395.488.506</Text>
         </Link>
       </SupportItem>
       <SupportItem color={'white'} bgColor={'#0068ff'} bgColorHover={'#0062cc'}>
@@ -45,8 +45,8 @@ export default function SupportInfo() {
             alignItems={'center'}
             justifyContent={'center'}
             target={'_blank'}
-            href="https://zalo.me/0353651688"
-            title={'035.365.1688'}
+            href="https://zalo.me/0395488506"
+            title={'0395.488.506'}
         >
           <span className={'icon sprite zalo-icon'} />
           <Text ml={1}>Chat Zalo</Text>
@@ -58,9 +58,9 @@ export default function SupportInfo() {
             isExternal
             alignItems={'center'}
             justifyContent={'center'}
-            title={'Hqc247'}
+            title={'YenChina'}
             target={'_blank'}
-            href="https://www.messenger.com/t/100535591350070"
+            href="https://www.messenger.com/t/yenchina.vn"
         >
           <span className={'icon sprite facebook-messenger-icon'} />
           <Text ml={1}>Chat Facebook</Text>

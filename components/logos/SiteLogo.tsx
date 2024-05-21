@@ -7,8 +7,8 @@ export default function SiteLogo() {
   return <NextLink href={URL_HNDC_HOMEPAGE}>
     <Image
         h={['45px', '50px']}
-        src={'/images/logos/hqc247-logo.png'}
-        fallbackSrc={'/images/logos/hqc247-logo.png'}
+        src={'/images/logos/icon_yenchina.png'}
+        fallbackSrc={'/images/logos/icon_yenchina.png'}
         alt={'Logo'}
     />
   </NextLink>

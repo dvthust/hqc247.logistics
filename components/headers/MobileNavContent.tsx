@@ -43,7 +43,7 @@ export default function MobileNavContent({mobileNav, data}: any) {
         <Flex alignItems="center" py={2} justifyContent={'center'}>
           <Flex>
             <Text display={'flex'}>Hotline:</Text>
-            <Text ml={1} color={'red'}>{data?.contact_hotline || '035.365.1688'}</Text>
+            <Text ml={1} color={'red'}>{'0395.488.506'}</Text>
           </Flex>
         </Flex>
 

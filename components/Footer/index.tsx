@@ -92,7 +92,7 @@ export default function Footer() {
                 <SiteLogo/>
               </Box>
               <Text>
-                Hqc247 Logistics là công ty chuyên nghiệp trong lĩnh vực Logistics. Hqc247 Logistics cung cấp cho khách hàng tất cả các dịch vụ liên quan đến giao nhận, vận tải như: Vận tải đường hàng không, vận tải đường biển, dịch vụ gom hang, vận tải đường bộ, dịch vụ kho bãi, dịch vụ khai Hải quan, dịch vụ vận chuyển hàng dự án.
+                YenChina Logistics là công ty chuyên nghiệp trong lĩnh vực Logistics. YenChina Logistics cung cấp cho khách hàng tất cả các dịch vụ liên quan đến giao nhận, vận tải như: Vận tải đường hàng không, vận tải đường biển, dịch vụ gom hang, vận tải đường bộ, dịch vụ kho bãi, dịch vụ khai Hải quan, dịch vụ vận chuyển hàng dự án.
               </Text>
             </Stack>
             <chakra.div>
@@ -128,13 +128,13 @@ export default function Footer() {
               </Box>
               <>
                 <AddressHn
-                    address={'Số 15 , ngõ 61 ,Cổ Linh, Thạch Bàn, Long Biên, HN'}
-                    email={'hqc247.logistics@gmail.com'}
-                    phone={'035.747.1688'}
+                    address={'117-119 Bằng Liệt, Hoàng Liệt, Hoàng Mai, Hà Nội'}
+                    email={'yenchina.vn@gmail.com'}
+                    phone={'096.232.1688'}
                 />
                 <AddressHcm
-                    address={"Lê Văn Sỹ - P1 - Q.Tân Bình, Hồ Chí Minh"}
-                    phone={"037.286.1688"}
+                    address={"102/36D Phan Huy Ích, Phường 15, Quận Tân Bình, Hồ Chí Minh"}
+                    phone={"0395.488.506"}
                 />
               </>
             </Stack>
@@ -149,7 +149,7 @@ export default function Footer() {
         >
           <Text color={'white'}>© 2015 - 2024 Copyright</Text>
           <Link href={URL_HNDC_HOMEPAGE} color={'red'}
-                pl={1}>Hqc247</Link>
+                pl={1}>YenChina</Link>
           <Text color={'white'} ml={1}>Tất cả các quyền được bảo lưu</Text>
         </Flex>
       </Box>

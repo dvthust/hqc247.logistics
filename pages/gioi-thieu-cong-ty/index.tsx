@@ -8,13 +8,13 @@ import DefaultLayout from "@/components/layouts/DefaultLayout";
 export default function IntroductionPage () {
   return <>
     <Head>
-      <title>Giới thiệu về Hqc247 Logistics</title>
+      <title>Giới thiệu về YenChina Logistics</title>
     </Head>
     <BreadcrumbContainer
         d={{base: 'none', lg: 'flex'}}
         px={'15px'}
         items={[
-          {name: `Giới thiệu về Hqc247 Logistics`}
+          {name: `Giới thiệu về YenChina Logistics`}
         ]}
     />
     <chakra.div>
@@ -41,10 +41,10 @@ export default function IntroductionPage () {
                 boxShadow={'0 3px 5px 0 rgb(0 1 1 / 10%)'}
                 className={'post-wrapper'}
             >
-              <Heading as="h1" size="lg">Giới thiệu về Hqc247 Logistics</Heading>
+              <Heading as="h1" size="lg">Giới thiệu về YenChina Logistics</Heading>
               <chakra.div pt={'30px'}>
                 <Text fontWeight={'600'}>
-                  Bài viết này chúng tôi sẽ giới thiệu Hqc247 Logistics là gì, mục đích hướng tới, sứ mệnh và tầm nhìn về ngành dịch vụ logistics nói chung và Order hàng trung quốc nói riêng.
+                  Bài viết này chúng tôi sẽ giới thiệu YenChina Logistics là gì, mục đích hướng tới, sứ mệnh và tầm nhìn về ngành dịch vụ logistics nói chung và Order hàng trung quốc nói riêng.
                 </Text>
               </chakra.div>
               <chakra.div className={'post-content'} pt={'15px'}>

@@ -44,7 +44,7 @@ export default function PrivacyPolicyPage() {
               <Heading as="h1" size="lg">Chính sách và quyền riêng tư</Heading>
               <chakra.div className={'post-content'} pt={'15px'}>
                 <Text>
-                  Hqc247 Logistics (“chúng tôi” hoặc “chúng tôi” hoặc “của
+                  YenChina Logistics (“chúng tôi” hoặc “chúng tôi” hoặc “của
                   chúng tôi”) tôn trọng quyền riêng tư của người dùng của chúng
                   tôi (“người dùng” hoặc “bạn”). Chính sách Bảo mật này giải
                   thích cách chúng tôi thu thập, sử dụng, tiết lộ và bảo vệ

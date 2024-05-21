@@ -35,7 +35,7 @@ export default function TopHeader() {
                 >
                     <Flex alignItems="center">
                         <Icon boxSize={'0.85em'} as={FaPhoneVolume} />
-                        <Text px={1}>Hotline: {'035.747.1688'}</Text>
+                        <Text px={1}>Hotline: {'0395.488.506'}</Text>
                     </Flex>
                     <Flex>
                         <Flex
