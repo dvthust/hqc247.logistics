@@ -34,7 +34,22 @@ const faqData = [
     title: 'Chúng tôi có các đại lý nước ngoài với độ tin cậy cao',
     info: 'Chúng tôi đã lựa chọn rất kỹ càng các đại lý nước ngoài với độ tin cậy và an toàn cao. Mạng lưới đại lý ở nước ngoài của chúng tôi đều là các tập đoàn giao nhận lớn, đã hoạt động nhiều năm trong lĩnh vực giao nhận vận tải. Chúng tôi tất cả đều tham gia vào các tổ chức liên hiệp các nhà vận chuyển như WCA; FIATA…\n' +
         'Chúng tôi có quan hệ đặc biệt tốt với các hãng tàu lớn như: APL, Evergreen, “K”line, NYK, OOCL, COSCO, Zim, SITC, Maersk, Hapag-Lloyd…'
-  }
+  },
+  {
+    id: 5,
+    title: 'CÁC BƯỚC GIAO DỊCH KHI NHẬP HÀNG THẾ NÀO ?',
+    info: 'Để đặt hàng bạn sẽ chọn sản phẩm và gửi link sản phẩm đó cho Hàng Quảng Châu 24H. Sau khi nhận link, chúng tôi sẽ liên hệ nhà cung cấp để đàm phán giá và chốt đơn hàng. Khi đã chốt được đơn hàng, bạn có thể làm theo hướng dẫn đặt hàng chi tiết của chúng tôi và chờ sản phẩm về tay chỉ sau vài ngày.'
+  },
+  {
+    id: 6,
+    title: 'THỜI GIAN VẬN CHUYỂN VỀ ĐẾN VIỆT NAM HẾT BAO LÂU ?',
+    info: 'Khi đặt hàng, các shop Trung Quốc sẽ cần có 1 khoảng thời gian để chuẩn bị hàng và phát hàng. Hàng từ lúc đặt đến khi hàng về kho Hà Nội là 5-7 ngày; về HCM là 7-10 ngày.'
+  },
+  {
+    id: 7,
+    title: 'LỰA CHỌN NHÀ CUNG CẤP UY TÍN NHƯ NÀO ?',
+    info: 'Thông thường các NCC trên sàn TMĐT sẽ được đánh giá qua lượt mua hàng và phản hồi về sản phẩm của khách hàng. Nếu muốn chọn đúng nhà cung cấp tốt, bạn nên xem lượt mua hàng và phản hồi của khách hàng để đánh giá và lựa chọn.'
+  },
 ]
 
 export default function FaqIntro() {
@@ -42,13 +57,13 @@ export default function FaqIntro() {
   return <chakra.div bg={'white'}>
     <chakra.div maxW="1200px" mx="auto" px={2}>
       <Flex>
-        <Flex flex={1} px={4} display={{base: 'none', lg: 'flex'}}>
+        <Flex mt={4} flex={1} px={4} display={{base: 'none', lg: 'flex'}}>
           <Image w={'90%'} src={'/images/background/serviceleftimg.jpg'}/>
         </Flex>
         <Flex flex={1} pt={4} flexDirection={'column'}>
           <GeneralTitle
-              title={' TẠI SAO CHỌN CHÚNG TÔI'}
-              subtitle={''}
+              title={'CÂU HỎI THƯỜNG GẶP'}
+              subtitle={'Một số các câu hỏi thường gặp phải khi các bạn đang sử dụng dịch vụ , cũng như việc vận chuyển mua bán hàng hóa ....'}
           />
           <chakra.div
             height={'3px'}

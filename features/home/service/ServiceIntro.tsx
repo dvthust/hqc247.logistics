@@ -6,25 +6,25 @@ const serviceData = [
     id: 1,
     title: 'Vận chuyển đường bộ',
     icon: 'sprite os-cart-icon',
-    info: 'YenChina Logistics chuyên vận chuyển các loại hàng Container 20, container 40, hàng quá khổ, hàng siêu trường, siêu trọng, các loại hàng rời, các loại hàng thiết bị, kết cấu thép, tôn tấm, thiếc, kẽm, chì, các loại hàng bao, kiện…'
+    info: 'Hqc24H Logistics chuyên vận chuyển các loại hàng Container 20, container 40, hàng quá khổ, hàng siêu trường, siêu trọng, các loại hàng rời, các loại hàng thiết bị, kết cấu thép, tôn tấm, thiếc, kẽm, chì, các loại hàng bao, kiện…'
   },
   {
     id: 2,
     title: 'Vận chuyển đường biển',
     icon: 'sprite os-truck',
-    info: 'Với YenChina Logistics, khách hàng có được sự lựa chọn linh hoạt và rộng rãi các dịch vụ vận chuyển đường biển. Chúng tôi cung ứng dịch vụ vận tải hàng nguyên công ten nơ, hàng gom, hàng rời và dịch vụ môi giới tàu.'
+    info: 'Với Hqc24H Logistics, khách hàng có được sự lựa chọn linh hoạt và rộng rãi các dịch vụ vận chuyển đường biển. Chúng tôi cung ứng dịch vụ vận tải hàng nguyên công ten nơ, hàng gom, hàng rời và dịch vụ môi giới tàu.'
   },
   {
     id: 4,
     title: 'VẬN CHUYỂN ĐƯỜNG SẮT',
     icon: 'sprite os-exchange-rate',
-    info: 'YenChina Logistics cung ứng dịch vụ vận chuyển đường sắt hàng gom theo lịch trình nhất định, vận chuyển nguyên toa xe, hàng không nguyên toa, đặc biệt là vận chuyển hàng quốc tế nhập xuất tuyến Trung Quốc và các nước trong khối OECD.'
+    info: 'Hqc24H Logistics cung ứng dịch vụ vận chuyển đường sắt hàng gom theo lịch trình nhất định, vận chuyển nguyên toa xe, hàng không nguyên toa, đặc biệt là vận chuyển hàng quốc tế nhập xuất tuyến Trung Quốc và các nước trong khối OECD.'
   },
   {
     id: 3,
     title: 'Ghép nhóm đánh hàng',
     icon: 'sprite os-truck-together',
-    info: 'YenChina Logistics cam kết và đảm bảo hàng hóa của quý khách sẽ về Việt Nam trong thời gian nhanh nhất.'
+    info: 'Hqc24H Logistics cam kết và đảm bảo hàng hóa của quý khách sẽ về Việt Nam trong thời gian nhanh nhất.'
   },
 ]
 

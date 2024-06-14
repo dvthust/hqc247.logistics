@@ -58,9 +58,9 @@ export default function SupportInfo() {
             isExternal
             alignItems={'center'}
             justifyContent={'center'}
-            title={'YenChina'}
+            title={'Hqc24H'}
             target={'_blank'}
-            href="https://www.messenger.com/t/yenchina.vn"
+            href="https://www.messenger.com/t/hangquangchau24h"
         >
           <span className={'icon sprite facebook-messenger-icon'} />
           <Text ml={1}>Chat Facebook</Text>

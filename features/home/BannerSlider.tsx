@@ -54,7 +54,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/banner-001.jpg'}
+                            src={'/images/banners/banner-hqc24h-001.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
@@ -68,7 +68,7 @@ export default function BannerSlider(): JSX.Element {
                         transform={"translate(-50%, -50%)"}
                     >
                         <Flex alignItems={'center'} flexDirection={'column'}>
-                            <Heading size={{base: 'md', md: '2xl'}} mt={2} color={'white'}>YenChina Logistics</Heading>
+                            <Heading size={{base: 'md', md: '2xl'}} mt={2} color={'white'}>Hqc24H Logistics</Heading>
                         </Flex>
                     </Box>
                 </Box>
@@ -79,7 +79,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/banner-002.jpg'}
+                            src={'/images/banners/banner-hqc24h-002.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
@@ -91,7 +91,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/banner-003.jpg'}
+                            src={'/images/banners/banner-hqc24h-003.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
@@ -103,7 +103,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/banner-004.jpg'}
+                            src={'/images/banners/banner-hqc24h-004.jpg'}
                             alt={'Banner'}
                         />
                     </Box>
@@ -115,7 +115,7 @@ export default function BannerSlider(): JSX.Element {
                         <Image
                             width={'100%'}
                             height={712}
-                            src={'/images/banners/banner-005.jpg'}
+                            src={'/images/banners/banner-hqc24h-005.jpg'}
                             alt={'Banner'}
                         />
                     </Box>

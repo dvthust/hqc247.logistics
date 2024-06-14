@@ -15,7 +15,7 @@ export default function BusinessPage () {
         d={{base: 'none', lg: 'flex'}}
         px={'15px'}
         items={[
-          {name: `Giới thiệu về YenChina`}
+          {name: `Giới thiệu về Hqc24H`}
         ]}
     />
     <chakra.div>

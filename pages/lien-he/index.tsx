@@ -4,6 +4,7 @@ import DefaultLayout from "@/components/layouts/DefaultLayout";
 import {ReactElement} from "react";
 import FaqIntro from "@/features/contact/faq/FaqIntro";
 import CtaBottom from "@/features/home/call-to-action/CtaBottom";
+import ContactInfoWrapper from '@/features/contact/ContactInfoWrapper';
 
 const ContactPage: NextPageWithLayout = () => {
     return (
@@ -14,6 +15,7 @@ const ContactPage: NextPageWithLayout = () => {
             <div>
                 <FaqIntro/>
                 <CtaBottom/>
+                <ContactInfoWrapper />
             </div>
         </>
     )

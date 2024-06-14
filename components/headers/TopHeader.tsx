@@ -20,7 +20,7 @@ export default function TopHeader() {
             color={cl}
             fontSize={'sm'}
             fontWeight={'500'}
-            bgGradient={'linear-gradient(-180deg,#0249AA,#1e73be)'}
+            bgColor={'#114172'}
             overflowY="hidden"
             borderBottomWidth={1}
             borderBottomColor={useColorModeValue("gray.100", "gray.900")}

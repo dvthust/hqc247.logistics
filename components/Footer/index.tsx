@@ -92,7 +92,7 @@ export default function Footer() {
                 <SiteLogo/>
               </Box>
               <Text>
-                YenChina Logistics là công ty chuyên nghiệp trong lĩnh vực Logistics. YenChina Logistics cung cấp cho khách hàng tất cả các dịch vụ liên quan đến giao nhận, vận tải như: Vận tải đường hàng không, vận tải đường biển, dịch vụ gom hang, vận tải đường bộ, dịch vụ kho bãi, dịch vụ khai Hải quan, dịch vụ vận chuyển hàng dự án.
+                Hqc24h Logistics là công ty chuyên nghiệp trong lĩnh vực Logistics. Hqc24H Logistics cung cấp cho khách hàng tất cả các dịch vụ liên quan đến giao nhận, vận tải như: Vận tải đường hàng không, vận tải đường biển, dịch vụ gom hang, vận tải đường bộ, dịch vụ kho bãi, dịch vụ khai Hải quan, dịch vụ vận chuyển hàng dự án.
               </Text>
             </Stack>
             <chakra.div>
@@ -129,7 +129,7 @@ export default function Footer() {
               <>
                 <AddressHn
                     address={'117-119 Bằng Liệt, Hoàng Liệt, Hoàng Mai, Hà Nội'}
-                    email={'yenchina.vn@gmail.com'}
+                    email={'hangquangchau24h.vn@gmail.com'}
                     phone={'096.232.1688'}
                 />
                 <AddressHcm
@@ -149,7 +149,7 @@ export default function Footer() {
         >
           <Text color={'white'}>© 2015 - 2024 Copyright</Text>
           <Link href={URL_HNDC_HOMEPAGE} color={'red'}
-                pl={1}>YenChina</Link>
+                pl={1}>Hqc24H</Link>
           <Text color={'white'} ml={1}>Tất cả các quyền được bảo lưu</Text>
         </Flex>
       </Box>
